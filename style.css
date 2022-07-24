@@ -1,0 +1,49 @@
+html{
+    background-color: burlywood;
+}
+.navigation{
+    color: #FFFFFF;
+    background-color: #626262;
+    font-size: 25px;
+    padding: 40px;
+	display: inline-block;
+	padding: 40px;
+    margin-right: 50px; height: 200px; width: 200px;
+}
+h1 {
+	color: #FFFFFF;
+	background-color: #626262;
+	font-size: 30px;
+	padding: 40px;
+	padding: 40px;
+    margin-right: 50px; height: 200px; width: 2196px;
+}
+div{
+    text-align: center;
+}
+
+p {
+	color: #333;
+	line-height: 20px;
+	font-size: 15px;
+}
+
+.a {
+	line-height: 20px;
+	font-size: 15px;
+}
+
+.e {
+	color: #502222;
+    font-size: 20px;
+}
+p span{
+    color: red;
+}
+.menu{
+    color: #502222;
+    font-size: 20px;
+}
+#nickname{
+    color: blue;
+}
